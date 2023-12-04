@@ -1,2 +1,5 @@
 # php-fractalizer
-php fractal images generator
+simple php script to generate fractal images with gd library.
+
+Working code:
+![Alt text](image.png)
